@@ -1,3 +1,7 @@
+# SW_simpleWidget
+some test widget
+widget made as a test task for some firm
+limit was 8 hours
 
 # .... Front-End Developer Test
 
